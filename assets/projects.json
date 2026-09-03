@@ -1,0 +1,4 @@
+{
+  "_comment": "Repos that get live API cards in the README via scripts/cards.py. Currently empty: Chetanya's showcase products (HDL Workbench, Payroll AI Agent, etc.) are private, so the README's 'selected work' section is hand-written static cards instead. To opt back in, add entries here and re-run: python scripts/cards.py --user Chetanya-Kaushal --projects assets/projects.json --out assets",
+  "projects": []
+}

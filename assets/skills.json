@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated 0-100 values for Chetanya Kaushal, derived from chetanyakaushal.com. Edit freely; 5-8 axes reads best.",
+  "axes": [
+    { "label": "Oracle HCM Cloud", "value": 93 },
+    { "label": "AI Agent Architecture", "value": 88 },
+    { "label": "REST API & OIC", "value": 86 },
+    { "label": "Python", "value": 80 },
+    { "label": "SQL & Reporting", "value": 76 },
+    { "label": "React / TypeScript", "value": 70 },
+    { "label": "Docker / AWS", "value": 62 }
+  ]
+}
