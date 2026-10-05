@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 404" width="490" height="404" role="img" aria-label="chetanya@github info">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:13px;white-space:pre}.t{font-size:12px;fill:#8b949e}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}.l{opacity:0;animation:in .45s ease-out forwards}</style>
+<rect x=".5" y=".5" width="489" height="403" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 34V10.5a10 10 0 0 1 10-10h469a10 10 0 0 1 10 10V34z" fill="#161b22"/>
+<line x1="0" y1="34" x2="490" y2="34" stroke="#30363d"/>
+<circle cx="18" cy="17.0" r="5.5" fill="#ff5f56"/>
+<circle cx="36" cy="17.0" r="5.5" fill="#ffbd2e"/>
+<circle cx="54" cy="17.0" r="5.5" fill="#27c93f"/>
+<text class="t" x="245.0" y="21.0" text-anchor="middle">chetanya@github — neofetch</text>
+<text x="22" y="56" xml:space="preserve" class="l" style="animation-delay:0.40s"><tspan fill="#58a6ff">chetanya@github</tspan></text>
+<text x="22" y="78" xml:space="preserve" class="l" style="animation-delay:0.52s"><tspan fill="#8b949e">───────────────</tspan></text>
+<text x="22" y="100" xml:space="preserve" class="l" style="animation-delay:0.64s"><tspan fill="#39d353">Name:     </tspan><tspan fill="#c9d1d9">Chetanya Kaushal</tspan></text>
+<text x="22" y="122" xml:space="preserve" class="l" style="animation-delay:0.76s"><tspan fill="#39d353">Role:     </tspan><tspan fill="#c9d1d9">Oracle HCM Cloud Techno-Functional Consultant</tspan></text>
+<text x="22" y="144" xml:space="preserve" class="l" style="animation-delay:0.88s"><tspan fill="#39d353">          </tspan><tspan fill="#c9d1d9">AI Agent Architect</tspan></text>
+<text x="22" y="166" xml:space="preserve" class="l" style="animation-delay:1.00s"><tspan fill="#39d353">HCM:      </tspan><tspan fill="#c9d1d9">Core HR · Payroll · Absence · Talent · HRSD</tspan></text>
+<text x="22" y="188" xml:space="preserve" class="l" style="animation-delay:1.12s"><tspan fill="#39d353">Tools:    </tspan><tspan fill="#c9d1d9">OIC · Fast Formulas · OTBI</tspan></text>
+<text x="22" y="210" xml:space="preserve" class="l" style="animation-delay:1.24s"><tspan fill="#39d353">Building: </tspan><tspan fill="#c9d1d9">Autonomous AI agents for Oracle HCM</tspan></text>
+<text x="22" y="232" xml:space="preserve" class="l" style="animation-delay:1.36s"><tspan fill="#39d353">          </tspan><tspan fill="#c9d1d9">payroll · HR doc intelligence · compliance</tspan></text>
+<text x="22" y="254" xml:space="preserve" class="l" style="animation-delay:1.48s"><tspan fill="#39d353">Learning: </tspan><tspan fill="#c9d1d9">LangChain · RAG · agent frameworks</tspan></text>
+<text x="22" y="276" xml:space="preserve" class="l" style="animation-delay:1.60s"><tspan fill="#39d353">Origin:   </tspan><tspan fill="#c9d1d9">2023 - intelligent automation inside HR</tspan></text>
+<text x="22" y="320" xml:space="preserve" class="l" style="animation-delay:1.84s"><tspan fill="#58a6ff">web:      </tspan><tspan fill="#c9d1d9">chetanyakaushal.com</tspan></text>
+<g class="l" style="animation-delay:2.08s">
+<rect x="22" y="352" width="22" height="14" rx="2" fill="#161b22"/>
+<rect x="48" y="352" width="22" height="14" rx="2" fill="#f85149"/>
+<rect x="74" y="352" width="22" height="14" rx="2" fill="#39d353"/>
+<rect x="100" y="352" width="22" height="14" rx="2" fill="#d29922"/>
+<rect x="126" y="352" width="22" height="14" rx="2" fill="#58a6ff"/>
+<rect x="152" y="352" width="22" height="14" rx="2" fill="#bc8cff"/>
+<rect x="178" y="352" width="22" height="14" rx="2" fill="#39c5cf"/>
+<rect x="204" y="352" width="22" height="14" rx="2" fill="#c9d1d9"/>
+</g>
+</svg>
